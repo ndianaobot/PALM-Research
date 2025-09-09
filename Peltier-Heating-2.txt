@@ -1,0 +1,62 @@
+Current Temperature: 27.91
+Output Voltage: 255.00
+Temperature: 27.87°C  |  Temperature: 301.02°K  |  82.17°F
+Current Temperature: 27.87
+Output Voltage: 255.00
+Temperature: 27.87°C  |  Temperature: 301.02°K  |  82.17°F
+Current Temperature: 27.87
+Output Voltage: 255.00
+Temperature: 27.87°C  |  Temperature: 301.02°K  |  82.17°F
+Current Temperature: 30.99
+Output Voltage: 255.00
+Temperature: 30.99°C  |  Temperature: 304.50°K  |  88.43°F
+Current Temperature: 35.31
+Output Voltage: 255.00
+Temperature: 35.31°C  |  Temperature: 308.46°K  |  95.56°F
+Current Temperature: 37.67
+Output Voltage: 255.00
+Temperature: 37.67°C  |  Temperature: 310.82°K  |  99.81°F
+Current Temperature: 39.85
+Output Voltage: 255.00
+Temperature: 39.85°C  |  Temperature: 313.28°K  |  104.23°F
+Current Temperature: 41.47
+Output Voltage: 255.00
+Temperature: 41.47°C  |  Temperature: 314.62°K  |  106.65°F
+Current Temperature: 43.99
+Output Voltage: 255.00
+Temperature: 43.99°C  |  Temperature: 317.14°K  |  111.18°F
+Current Temperature: 45.41
+Output Voltage: 255.00
+Temperature: 45.41°C  |  Temperature: 318.56°K  |  114.46°F
+Current Temperature: 46.69
+Output Voltage: 255.00
+Temperature: 46.69°C  |  Temperature: 319.86°K  |  116.08°F
+Current Temperature: 47.61
+Output Voltage: 255.00
+Temperature: 47.61°C  |  Temperature: 320.76°K  |  117.70°F
+Current Temperature: 47.97
+Output Voltage: 255.00
+Temperature: 47.97°C  |  Temperature: 321.12°K  |  118.35°F
+Current Temperature: 49.71
+Output Voltage: 255.00
+Temperature: 49.71°C  |  Temperature: 323.10°K  |  121.91°F
+Current Temperature: 50.97
+Output Voltage: 255.00
+Temperature: 50.97°C  |  Temperature: 324.12°K  |  123.75°F
+Current Temperature: 51.35
+Output Voltage: 255.00
+Temperature: 51.35°C  |  Temperature: 324.50°K  |  124.43°F
+Current Temperature: 51.93
+Output Voltage: 255.00
+Temperature: 51.93°C  |  Temperature: 325.08°K  |  125.19°F
+Current Temperature: 52.23
+Output Voltage: 255.00
+Temperature: 52.23°C  |  Temperature: 325.54°K  |  126.30°F
+Current Temperature: 52.21
+Output Voltage: 255.00
+Temperature: 52.21°C  |  Temperature: 325.36°K  |  125.98°F
+Current Temperature: 51.97
+Output Voltage: 255.00
+Temperature: 51.97°C  |  Temperature: 325.12°K  |  125.55°F
+Current Temperature: 52.81
+Output Voltage: 255.00

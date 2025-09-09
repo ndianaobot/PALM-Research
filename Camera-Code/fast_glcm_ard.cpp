@@ -262,8 +262,7 @@ public:
             { //cout << endl;
                 for (int x = 0; x < glcm[i][j][y].size(); x++)
                 {
-                     //cout << glcm[i][j][y][x] << " ";
-                    
+                    //cout << glcm[i][j][y][x] << " "; //DEBUG
                 if(abs(i-j) == y){
                     contrast_matrix[y][x] += glcm[i][j][y][x] * (i - j) * (i-j);
                     total_contrast +=  contrast_matrix[y][x];

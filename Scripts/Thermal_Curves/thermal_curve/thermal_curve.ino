@@ -19,8 +19,8 @@ Adafruit_MLX90614 mlx = Adafruit_MLX90614();
 
 // Define PID variables
 double Setpoint, Input, Output;
-double Kp = 2, Ki = 5, Kd = 30; // Tune these values
-PID myPID(&Input, &Output, &Setpoint, Kp, Ki, Kd, DIRECT);
+double Kp = 200, Ki = 0, Kd = 0; // Tune these values
+PID myPID(&Input, &Output, &Setpoint, Kp, Ki, Kd, AUTOMATIC);
 
 // Define pin for controlling the heater/cooler
 const int outputPin = A0; // PWM pin
@@ -31,13 +31,17 @@ void setupPID(double targetTemp)
   myPID.SetMode(AUTOMATIC);
   myPID.SetOutputLimits(0, 255); // Adjust limits based on your setup
   myPID.SetSampleTime(1000);     // Adjust sample time in milliseconds
- // myPID.begin();
+ //myPID.begin();
 }
 
 void runPID(double currentTemp)
 {
   Input = currentTemp;
   myPID.Compute();
+  Serial.print("Current Temperature: ");
+  Serial.println(currentTemp);
+  Serial.print("Output Voltage: ");
+  Serial.println(Output);
   analogWrite(outputPin, Output); // Control the heater/cooler
 }
 
@@ -67,16 +71,13 @@ void setup(void)
 void loop(void)
 {
   // Send the command to get temperatures
-
   sensors.requestTemperatures();
 
-  if (Serial.available() > 0)
-  {
-    char receivedChar = Serial.read(); // Read the character (but you don't need to use it)
+ 
+    //char receivedChar = Serial.read(); // Read the character (but you don't need to use it)
     while (1)
     {
       // Send the command to get temperatures
-
       sensors.requestTemperatures();
 
       double currentTemp = getIRTemp();
@@ -93,7 +94,6 @@ void loop(void)
       Serial.print((getIRTemp() * 9.0) / 5.0 + 32.0);
       Serial.println("°F");
     }
-  }
 
   /*UNCOMMENT CODE BELOW WHEN USING THERMISTOR*/
   // print the temperature in Celsius

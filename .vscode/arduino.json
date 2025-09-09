@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:nano",
+    "sketch": "Scripts\\ComponentsTesting\\ComponentsTesting.ino",
+    "port": "COM11",
+    "configuration": "cpu=atmega328"
+}
