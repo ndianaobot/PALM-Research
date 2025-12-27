@@ -4,6 +4,11 @@ PALM: A Low-Cost, Wearable Vibrotactile and Thermal Feedback Device for Upper Li
 🏆 **1st Place, UIC BioDesign 2025** – Hinsdale South Codons
 
 🎤 **Selected Presentation, UMN SURE 2025** (University of Minnesota Summer Undergraduate Research Expo)
+🎤 **Selected Presentation, MIT URTC 2025** (MIT Undergraduate Research Technology Conference)
+🎤 **Selected Presentation, IEEE EMBS BSN 2025** (International Conference on Body Sensor Networks)
+🎤 **Selected Presentation, IEEE UEMCON 2025** (Ubiquitous Computing, Electronics & Mobile Communication Conference)
+🎤 **Selected Presentation, IEEE IEMCON 2025** (Information Technology, Electronics and Mobile Communication Conference)
+🎤 **Selected Presentation, BMES Annual Meeting 2025** (Biomedical Engineering Society's 2025 Annual Meeting)
 
 📊 **Accepted Poster, BMES 2025** – High School Poster Competition
 
