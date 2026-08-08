@@ -3,18 +3,18 @@
     {
       "index": 0,
       "survey": {
-        "f722ef3a": "Bark.jpg",
-        "e9f12852": "Wall(4).jpg",
-        "76580995": "Leather chair.jpg",
-        "b6ec2851": "Skin.png",
-        "372ac5c3": "Skin(1).jpg"
+        "00a0ff57": "Bark.jpg",
+        "5e171593": "Wall(4).jpg",
+        "87571138": "Leather chair.jpg",
+        "fb1b6610": "Skin.png",
+        "7106a360": "Skin(1).jpg"
       },
       "ranked_labels": [
-        "f722ef3a",
-        "e9f12852",
-        "76580995",
-        "b6ec2851",
-        "372ac5c3"
+        "00a0ff57",
+        "5e171593",
+        "87571138",
+        "fb1b6610",
+        "7106a360"
       ]
     }
   ],
