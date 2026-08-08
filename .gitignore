@@ -1,3 +1,11 @@
 RRS_Survey.json
 
 thermal_measuring_setup
+
+__pycache__
+.vscode
+_secrets
+
+.env
+
+
