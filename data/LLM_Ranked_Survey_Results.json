@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "index": 0,
+      "survey": {
+        "f722ef3a": "Bark.jpg",
+        "e9f12852": "Wall(4).jpg",
+        "76580995": "Leather chair.jpg",
+        "b6ec2851": "Skin.png",
+        "372ac5c3": "Skin(1).jpg"
+      },
+      "ranked_labels": [
+        "f722ef3a",
+        "e9f12852",
+        "76580995",
+        "b6ec2851",
+        "372ac5c3"
+      ]
+    }
+  ],
+  "ranked_images": [
+    {
+      "index": 0,
+      "Bark.jpg": 1,
+      "Wall(4).jpg": 2,
+      "Leather chair.jpg": 3,
+      "Skin.png": 4,
+      "Skin(1).jpg": 5
+    }
+  ]
+}
