@@ -8,4 +8,6 @@ _secrets
 
 .env
 
+.plans/
+
 
